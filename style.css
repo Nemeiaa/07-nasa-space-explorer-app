@@ -268,4 +268,5 @@ button:hover {
   font-size: 24px;
   cursor: pointer;
   color: #fc3d21; /* NASA red */
+  opacity: 0%;
 }
